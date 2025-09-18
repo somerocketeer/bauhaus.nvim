@@ -20,4 +20,4 @@ jobs:
         with:
           version: latest
           token: ${{ secrets.GITHUB_TOKEN }}
-          args: --color never --glob 'colors/**/*.lua' --glob 'lua/**/*.lua'
+          args: .
