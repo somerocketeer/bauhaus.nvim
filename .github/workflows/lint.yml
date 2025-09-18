@@ -12,11 +12,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Set up Lua
-        uses: leafo/gh-actions-lua@v10
-        with:
-          luaVersion: "5.1"
-      - name: Install Stylua
+      - name: Run Stylua
         uses: JohnnyMorganz/stylua-action@v4
         with:
           version: latest
