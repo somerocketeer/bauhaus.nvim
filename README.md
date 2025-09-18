@@ -1,6 +1,6 @@
 # Bauhaus - Neovim colorscheme
 
-[![Neovim](https://img.shields.io/badge/Neovim-%3E%3D0.9-57A143?logo=neovim)](https://neovim.io) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) [![CI](https://github.com/somerocketeer/bauhaus.nvim/actions/workflows/lint.yml/badge.svg)](https://github.com/somerocketeer/bauhaus.nvim/actions/workflows/lint.yml) [![Code Style: Stylua](https://img.shields.io/badge/Code%20Style-Stylua-2c3e50.svg)](https://github.com/JohnnyMorganz/StyLua) [![Release](https://img.shields.io/github/v/release/somerocketeer/bauhaus.nvim)](https://github.com/somerocketeer/bauhaus.nvim/releases)
+[![Neovim](https://img.shields.io/badge/Neovim-%3E%3D0.9-57A143?logo=neovim)](https://neovim.io) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) [![CI](https://img.shields.io/github/actions/workflow/status/somerocketeer/bauhaus.nvim/lint.yml?logo=github&label=CI)](https://github.com/somerocketeer/bauhaus.nvim/actions/workflows/lint.yml) [![Code Style: Stylua](https://img.shields.io/badge/Code%20Style-Stylua-2c3e50.svg)](https://github.com/JohnnyMorganz/StyLua) [![Release](https://img.shields.io/github/v/release/somerocketeer/bauhaus.nvim?display_name=tag)](https://github.com/somerocketeer/bauhaus.nvim/releases)
 
 Bauhaus-inspired dark theme: warm coral and sand accents over cool slate/teal surfaces.
 
