@@ -59,6 +59,3 @@ CI / Lint
 - Stylua formatting can be run locally:
   stylua lua/ colors/
 - Example GitHub Action is provided in .github/workflows/lint.yml
-
-License
-MIT
