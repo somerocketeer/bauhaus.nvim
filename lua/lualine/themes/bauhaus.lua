@@ -8,25 +8,26 @@ local M = {}
 -- Base sections colors
 local bg  = C.bg
 local fg  = C.fg
-local acc = C.violet       -- primary accent (coral)
+local norm = C.blue        -- neutral-ish accent for normal mode
+local acc = C.violet       -- strong accent (coral)
 local dim = C.sub0         -- dimmed text
 local surf= C.s0           -- surface
 local brd = C.s1           -- border/divider
 
 M.normal = {
-  a = { bg = acc, fg = bg, gui = "bold" },
+  a = { bg = norm, fg = bg, gui = "bold" },
   b = { bg = surf, fg = fg },
   c = { bg = surf, fg = fg },
 }
 
 M.insert = {
-  a = { bg = C.green, fg = bg, gui = "bold" },
+  a = { bg = acc, fg = bg, gui = "bold" },
   b = { bg = surf, fg = fg },
   c = { bg = surf, fg = fg },
 }
 
 M.visual = {
-  a = { bg = C.blue, fg = bg, gui = "bold" },
+  a = { bg = C.cyan, fg = bg, gui = "bold" },
   b = { bg = surf, fg = fg },
   c = { bg = surf, fg = fg },
 }
