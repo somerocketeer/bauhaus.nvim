@@ -28,7 +28,7 @@ M.insert = {
 }
 
 M.visual = {
-  a = { bg = C.cyan, fg = bg, gui = "bold" },
+  a = { bg = C.blue, fg = bg, gui = "bold" },
   b = { bg = surf, fg = fg },
   c = { bg = surf, fg = fg },
 }
