@@ -8,9 +8,9 @@ local M = {}
 -- Base sections colors
 local bg  = C.bg
 local fg  = C.fg
--- Desired mapping: NORMAL = coral accent, INSERT = green
-local norm = C.violet      -- NORMAL uses coral accent
-local acc  = C.green       -- INSERT uses green
+-- Desired mapping: NORMAL = green, INSERT = coral accent
+local norm = C.green       -- NORMAL uses green for calmer default state
+local acc  = C.violet      -- INSERT gets the coral accent punch
 local dim = C.sub0         -- dimmed text
 local surf= C.s0           -- surface
 local brd = C.s1           -- border/divider
